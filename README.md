@@ -16,7 +16,7 @@ Hello sir, this console application is a body mass index calculator, you can add
 
 <b>ALGORITHM</b>
 
-Start.
+- Start.
 - User is prompted for height in meters.
 - The user is prompted for their weight in kilograms.
 - Calculates the user's body mass index.
